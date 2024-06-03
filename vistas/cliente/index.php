@@ -42,6 +42,6 @@ include_once '../../vistas/templates/header.php'; ?>
     </form>
 </div>
 
-<?php include_once '../../vistas/templates/foother.php'; ?>
+<?php include_once '../../vistas/templates/footer.php'; ?>
 
    
